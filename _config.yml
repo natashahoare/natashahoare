@@ -1,10 +1,10 @@
 # Blog settings
-permalink: /blog/:title
+permalink: /article/:title
 
 
 # My variables
-name: Micah Cowell
-description: Futuristic web design
+name: Natasaha Hoare
+description: Curator & Writer
 google_verification: null
 
 
