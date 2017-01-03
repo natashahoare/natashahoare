@@ -89,18 +89,6 @@ ul {
 	}
 }
 
-.music {
-	padding-bottom: 30px;
-	h1 {
-		font-size: 1.4em;
-		margin-bottom: 5px;
-	}
-	a {
-		padding: 5px;
-		padding-left: 10px;
-	}
-}
-
 .post {
 	padding-bottom: 30px;
 	&__back {
@@ -123,6 +111,12 @@ ul {
 		}
 	}
 	&__date {
+		p {
+			font-size: 1em;
+			font-style: italic;
+		}
+	}
+	&__category {
 		p {
 			font-size: 1em;
 			font-style: italic;
@@ -181,14 +175,6 @@ ul {
 			}
 			@media screen and (max-width: $br) {
 				margin-left: 10px;
-			}
-		}
-		img {
-			margin-top: 10px;
-			margin-bottom: 10px;
-			@media screen and (max-width: $br) {
-				width: 100%;
-				margin: auto;
 			}
 		}
 		code {

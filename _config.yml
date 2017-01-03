@@ -7,6 +7,8 @@ name: Natasaha Hoare
 description: Curator & Writer
 google_verification: null
 
+# Where are tags and categories displayed
+category_page: '/blog/categories/'
 
 # File management
 include: [".htaccess"]

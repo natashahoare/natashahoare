@@ -1,0 +1,24 @@
+---
+layout: default
+title: Categories
+---
+
+<div class="tags-expo">
+  <div class="tags-expo-list">
+    {% for tag in site.categories %}
+    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
+  <div class="blog">
+      {% for tag in site.categories %}
+      <h1 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h1>
+      <ul class="blog">
+        {% for post in tag[1] %}
+          <li>
+            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </div>
+</div>
