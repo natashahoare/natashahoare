@@ -1,0 +1,1 @@
+var gulp=require("gulp"),livereload=require("gulp-livereload"),watch=require("gulp-watch");gulp.task("default",["watch"]),gulp.task("watch",function(){livereload.listen(),gulp.watch(["_site/**"]).on("change",livereload.changed)});

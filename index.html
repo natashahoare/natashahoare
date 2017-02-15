@@ -3,24 +3,28 @@ layout: default
 ---
 
 <div class="header">
-    <h1>{{ site.name }}</h1>
-    <ul>
-        {% for item in site.data.navigation %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+  <ul>
+      <h1>{{ site.name }}</h1>
+      <h2>{{ site.description }}</h2>
+  </ul>
+  <ul>
+      {% for item in site.data.navigation %}
+      <li>
+          <a href="{{ item.url }}">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+  </ul>
 </div>
 <div class="blog">
-    {% for tag in site.categories %}
-    <h1 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h1>
+  {% assign sorted_cats = site.categories | sort %}
+  {% for category in sorted_cats %}
+  <h3 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</h3>
     <ul class="blog">
-      {% for post in tag[1] %}
+      {% for post in category[1] %}
         <li>
-          <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+          <span class="date">{{ post.date | date: '%d/%m/%y' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>
-    {% endfor %}
-  </div>
+  {% endfor %}
+</div>

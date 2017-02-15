@@ -1,6 +1,5 @@
 # Blog settings
-permalink: /article/:title
-
+permalink: /article/:year-:month-:day-:title
 
 # My variables
 name: Natasaha Hoare
@@ -14,12 +13,10 @@ category_page: '/blog/categories/'
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
 
-
 # Sass
 sass:
   style: :compressed
   sass_dir: _sass
-
 
 # Markdown
 markdown: kramdown

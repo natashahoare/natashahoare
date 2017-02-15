@@ -5,14 +5,18 @@
 @import "config";
 
 body {
-	color: $color-black;
-	background: $color-white;
+	color: $color-white;
+	background: $color-black;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 100%;
 	font-weight: 300;
 }
 h1 {
 	margin-bottom: 5px;
+}
+h3 {
+	margin-bottom: 5px;
+	font-size: 1.5em;
 }
 p {
 	font-size: 1em;
@@ -26,11 +30,10 @@ a {
 	text-decoration: none;
   }
   &:hover {
-	color: $color-white;
-	background-color: $color-link;
+	color: $color-link;
+	background-color: #0a0f9a;
 	text-decoration: none;
-	padding-bottom: 1px;
-	border-bottom: 1px solid $color-link;
+	border-bottom: none;
   }
   &:active {
 	color: $color-link;
@@ -43,7 +46,7 @@ ul {
 		padding: 5px;
 		padding-left: 10px;
 		@media screen and (max-width: $br) {
-			padding: 10px 0 10px 0;
+			padding: 5px 0 5px 0;
 		}
 	}
 }
@@ -51,13 +54,18 @@ ul {
 
 .wrapper {
 	max-width: 620px;
-	margin: auto;
-	padding: 60px 600px 60px 30px;
+	margin: 20px 80px;
+	padding: 60px 60px 60px 30px;
 	@media screen and (max-width: $br) {
 		padding: 20px;
+		margin: auto;
 	}
 }
 
+.img {
+	width: 600px;
+	height: auto;
+}
 
 .header {
 	display: flex;
