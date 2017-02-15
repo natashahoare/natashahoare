@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Antoglyph - Lukas Strebel
-category: Exhibition
+category: Curatorial
 ---
 
 ![11-30-11-1](/assets/img/11-30-11-1.jpg)
