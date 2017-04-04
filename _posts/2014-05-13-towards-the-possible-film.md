@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Towards the Possible Film
-category: Film
+category: Curatorial
 ---
 
 *Towards the Possible Film* is a short film by artist and director Shezad Dawood. I worked as Assistant Director on the project.

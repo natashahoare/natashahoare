@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simon Linington
-category: Publication
+category: Publications
 ---
 
 I have recently written a catalogue essay for the exhibition Closer.

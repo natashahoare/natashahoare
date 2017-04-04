@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Catlin Guide 2013 – New Artists in the UK
-category: Publicity
+category: Curatorial
 ---
 
 The press campaign for the Catlin Guide 2013 has just launched in the lead up to the Guide being unveiled at the London Art Fair 2013, on 16th January. The Guide introduces 40 of the most exciting new artists in the UK, selected from a six-month, nationwide survey by curator Justin Hammond. Despite many recent debates regarding the wisdom of the surge in graduate art sales and prices, the Guide is a vital step for many graduates leaving the university network, providing them with visibility in what is a very busy landscape. I am especially pleased to see two Chelsea colleagues on the list this year: Tom Railton and Rosie Farrell.

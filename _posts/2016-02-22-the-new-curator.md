@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The New Curator
-category: Publication
+category: Publications
 ---
 
 The New Curator brings together twenty-five curatorial voices to give an expansive view of the field today. The book features my interviews with each, charting the incredibly varied role of the curator (a constantly allusive and sometimes uncomfortable term) and documents some of the stand out exhibitions, projects and Biennales that constitute the present generations’ contribution to contemporary art.

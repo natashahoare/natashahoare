@@ -1,7 +1,7 @@
 ---
 layout: post
 title: John Baldessari - Yours in Food – The Gourmand
-category: Articles
+category: Texts
 ---
 
 My latest article for The Gourmand explores American Artist John Baldessari’s iconography of food.

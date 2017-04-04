@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Consumptive Love and French Decadent Literature – ExtraExtra
-category: Articles
+category: Texts
 ---
 
 ![09-06-16](/assets/img/09-06-16.jpg)

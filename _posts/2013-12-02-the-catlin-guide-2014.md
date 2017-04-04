@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Catlin Guide 2014
-category: Publicity
+category: Curatorial
 ---
 
 The Catlin Guide is back for another year and another selection of 40 artists just graduated from MA’s and BA’s across the UK. There is a particularly rich group of artists this year, and some will be exhibiting new works at the London Art Fair on the Catlin stand in January – where you can also pick up a free Guide.

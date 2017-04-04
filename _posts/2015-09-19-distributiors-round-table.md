@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Distributors – Round Table
-category: Talk
+category: Talks
 ---
 
 *Distributors*, at West, The Hague

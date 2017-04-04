@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marrakech Biennale 5 Catalogue
-category: Publication
+category: Publications
 ---
 
 Editor of the Marrakech Biennale 5 Catalogue

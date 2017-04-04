@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiding Out In My Own Place Nida Sinnokrot in conversation – Ibraaz
-category: Articles
+category: Texts
 ---
 
 ![05-13-16](/assets/img/05-13-16.jpg)

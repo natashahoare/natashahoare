@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Past is a Foreign Country – The White Review
-category: Articles
+category: Texts
 ---
 
 Over the past year or so I’ve developed an interest in the use of re-enactment in contemporary artistic practice.

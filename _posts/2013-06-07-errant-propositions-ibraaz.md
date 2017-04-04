@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Errant Propositions – Ibraaz
-category: Articles
+category: Texts
 ---
 
 I recently interviewed exciting young artist Jeremy Hutchison for the website Ibraaz regarding his recent residency in Ramallah, and upcoming group exhibition Points of Departure at the ICA, London.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Champagne Life – Saatchi Gallery
-category: Publication
+category: Publications
 ---
 
 My forthcoming essay for the *Champagne Life* catalogue, a group exhibition of female artists held at the Saatchi Gallery, will be available on the opening of the exhibition, 15th January 2016.

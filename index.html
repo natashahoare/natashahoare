@@ -16,7 +16,7 @@ layout: default
   </ul>
 </div>
 <div class="blog">
-  {% assign sorted_cats = site.categories | sort %}
+  {% assign sorted_cats = site.categories | sort 'Curatorial' 'Publications' 'Articles' 'Talks' 'Film' %}
   {% for category in sorted_cats %}
   <h3 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</h3>
     <ul class="blog">

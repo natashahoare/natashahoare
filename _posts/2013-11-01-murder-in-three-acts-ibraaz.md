@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Murder in Three Acts – Ibraaz
-category: Articles
+category: Texts
 ---
 
 A review for Ibraaz of Murder in Three Acts, a moving image work by Turkish artist Alsi Çavuşoğlu. To read click [here](http://www.ibraaz.org/reviews/47).

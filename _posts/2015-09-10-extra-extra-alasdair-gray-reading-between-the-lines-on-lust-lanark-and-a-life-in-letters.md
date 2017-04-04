@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ExtraExtra – Alasdair Gray. Reading Between the Lines
-category: Articles
+category: Texts
 ---
 
 # On Lust, Lanark and a Life in Letters

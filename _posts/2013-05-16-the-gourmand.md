@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gourmand
-category: Articles
+category: Texts
 ---
 
 I am excited to announce my new role as Arts Editor of food and culture magazine, The Gourmand.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The New Curator
-category: Publication
+category: Publications
 ---
 
 I am currently working on a book called The New Curator, to be published by Laurence King in 2015. The book collects 25 interviews with 25 international curators and artist curators, focussing on a specific exhibition or project. Interviewee’s include Maria Lind, Art Angel, Khaled Hourani, Anthony Huberman, Chus Martinez, Leah Gordon, Adam Sutherland, Clark House Initiative, Ragnar Kjartansson and Andjeas Ejiksson, Mami Kataoka and many more.

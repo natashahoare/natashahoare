@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reimagine; Yoko Ono
-category: Articles
+category: Texts
 ---
 
 For issue 6 of The Gourmand I have contributed an article on Yoko Ono and the relationship between her practice and food, reflecting on eating as an act in her instructional pieces.

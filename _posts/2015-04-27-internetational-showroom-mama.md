@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ExtraExtra – On Secret Pleasures and the Language of the Grotesque
-category: Talk
+category: Talks
 ---
 
 I am pleased to be taking part in the Internetational at Showroom MAMA, Rotterdam, a two-day symposium focusing on one of the most important areas of visual culture today: the Internet. Curators, artists, and theorists will discuss this topic with each other and the public in a diverse program of panel discussions, dialogues, lectures, and workshops. The impact of the Internet and social media on visual culture in general has been substantial. A young generation of contemporary artists, defined as Post Internet, have surfaced on social media and in exhibition spaces.

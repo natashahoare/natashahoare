@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Letter’s Discourse – Ibraaz
-category: Articles
+category: Texts
 ---
 
 *‘We read it out loud, in the hope that it will endure, in its vocal dispersal’*
