@@ -24,3 +24,4 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+encoding: utf-8
