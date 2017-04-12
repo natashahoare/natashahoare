@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jonathas de Andrade - MetropolisM
+title: Jonathas de Andrade - Metropolis M
 category: Texts
 ---
 
