@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Letter’s Discourse – Ibraaz
+title: A Letter's Discourse; Yazan Khalili & Lara Khalidi - Ibraaz
 category: Texts
 ---
 

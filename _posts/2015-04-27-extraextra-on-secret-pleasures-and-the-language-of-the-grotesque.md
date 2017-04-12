@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ExtraExtra – On Secret Pleasures and the Language of the Grotesque
+title: On Secret Pleasures and the Language of the Grotesque - ExtraExtra
 category: Texts
 ---
 

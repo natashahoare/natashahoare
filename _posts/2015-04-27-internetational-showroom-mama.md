@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ExtraExtra – On Secret Pleasures and the Language of the Grotesque
+title: Internetational - Showroom MAMA, Rotterdam
 category: Talks
 ---
 

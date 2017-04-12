@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reimagine; Yoko Ono
+title: Re-Imagine; Yoko Ono - The Gourmand
 category: Texts
 ---
 

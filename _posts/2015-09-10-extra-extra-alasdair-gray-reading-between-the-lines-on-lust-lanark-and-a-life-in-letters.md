@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ExtraExtra – Alasdair Gray. Reading Between the Lines
+title: Alasdair Gray. Reading Between the Lines - ExtraExtra
 category: Texts
 ---
 

@@ -4,18 +4,11 @@ title: Bricoleurze
 category: Curatorial
 ---
 
-An exhibition co-curated with Space In Between, London. Playfully titled *Bricoleurze*, the show features new works by Annie Davey and Tom Railton, two artists who I felt shared a common thread, (whether this belief has been born out through my closer contact with their working methodologies and practices, or through their love of Heavy Metal remains to be seen.) More information below and here.
+An exhibition co-curated with Space In Between, London. Titled *Bricoleurze*, the show features new works by Annie Davey and Tom Railton, two artists whose practices share a common thread. 
 
-11th October – 2nd November
-PV 10th October
+Taking the site of the gallery in Regent Studios, and the near surrounding area, as a starting point for this exhibition both Railton & Davey have sought to weave a narrative in to and around the area's history as well as its recent state of change and gentrification. Tom Railton & Annie Davey’s works use a para-fictional strategy to explore architecture and the role of the designer or town planner within the context of an industrial space – in this case Regent Studios – with a nod toward the absurdity of café culture, urban spread, new housing and gentrification.
 
-Space In Between is delighted to present *Bricoleurze*, an exhibition of new work by Annie Davey & Tom Railton. *Bricoleurze* has been co-curated by Natasha Hoare and features commissioned work by both artists.
-
-Taking the site of the gallery in Regent Studios, and the near surrounding area, as a starting point for this exhibition both Railton & Davey have sought to weave a narrative in to and around the area’s history as well as its recent state of change and gentrification.
-
-Tom Railton & Annie Davey’s works use a para-fictional strategy to explore architecture and the role of the designer or town planner within the context of an industrial space – in this case Regent Studios – with a nod toward the absurdity of café culture, urban spread, new housing and gentrification.
-
-*Bricoleurze* features video work, sculpture and drawings, as well as a performance by Matthew de Kersaint Giraudeau and a publication including texts by historian David Morris and curator Natasha Hoare. The publication acts as part archive and part bibliography – a physical manifestation of the conversations that have surrounded the creation and curation of the works on show.
+*Bricoleurze* features video work, sculpture and drawings, as well as a performance by Matthew de Kersaint Giraudeau and a publication including texts by historian David Morris and myself. The publication acts as part archive and part bibliography – a physical manifestation of the conversations that have surrounded the creation and curation of the works on show.
 
 ![09-26-13-1](/assets/img/09-26-13-1.jpg)
 

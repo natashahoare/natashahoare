@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distributors – Round Table
+title: Distributors; Round Table - West, The Hague
 category: Talks
 ---
 

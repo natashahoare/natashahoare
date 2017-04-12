@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Consumptive Love and French Decadent Literature – ExtraExtra
+title: On Consumptive Love and French Decadent Literature - ExtraExtra
 category: Texts
 ---
 

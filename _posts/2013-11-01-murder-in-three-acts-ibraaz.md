@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Murder in Three Acts – Ibraaz
+title: Murder in Three Acts - Ibraaz
 category: Texts
 ---
 

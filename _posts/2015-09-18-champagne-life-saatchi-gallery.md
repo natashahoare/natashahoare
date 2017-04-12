@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Champagne Life – Saatchi Gallery
+title: Champagne Life - Saatchi Gallery Catalogue
 category: Publications
 ---
 

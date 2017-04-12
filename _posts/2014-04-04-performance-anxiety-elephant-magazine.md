@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Performance Anxiety – Elephant Magazine
+title: Performance Anxiety - Elephant Magazine
 category: Texts
 ---
 

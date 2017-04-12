@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kairos Time, Book Launch
+title: Kairos Time Book Launch - TENT, Rotterdam
 category: Talks
 ---
 

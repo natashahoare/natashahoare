@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiding Out In My Own Place Nida Sinnokrot in conversation – Ibraaz
+title: Hiding Out In My Own Place Nida Sinnokrot in conversation - Ibraaz
 category: Texts
 ---
 

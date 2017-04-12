@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-Reflection, Freud Museum
+title: Self-Reflection; Mark Wallinger - Freud Museum, London
 category: Curatorial
 ---
 

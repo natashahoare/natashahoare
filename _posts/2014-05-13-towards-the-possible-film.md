@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Towards the Possible Film
+title: Towards the Possible Film - Shezad Dawood
 category: Curatorial
 ---
 
