@@ -12,6 +12,7 @@ category_page: '/blog/categories/'
 # File management
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
+encoding: UTF-8
 
 # Sass
 sass:
