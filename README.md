@@ -1,4 +1,6 @@
-# Site
+# Natasha Hoare
+## Curator & Writer
+
 This site is made with [jekyll](http://jekyllrb.com) and hosted on Github Pages.
 
 ### Designed by:
