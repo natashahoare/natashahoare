@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ten Murders of Josephine, Witte de With Center for Contemporary Art
-category: Texts
+category: Curatorial
 ---
 
 The Ten Murders of Josephine is an Opera project by artist Rana Hamadeh structured through several evolving iterations. Preceded by a study group, the exhibition will be followed by a theatrical production premiering at Theater Rotterdam, Schouwburg (14-15 December, 2017), a publication, and a film.
