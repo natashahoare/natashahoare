@@ -26,3 +26,8 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 encoding: utf-8
+
+# CMS
+github:
+  repo: natashahoare/natashahoare.github.io
+  branch: master
