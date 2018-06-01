@@ -1,0 +1,20 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: title
+  name: title
+  config:
+    required: true
+- type: text
+  name: layout
+  label: layout
+  config:
+    required: true
+  default: post
+- type: textarea
+  name: category
+  label: category
+  config:
+    required: true
