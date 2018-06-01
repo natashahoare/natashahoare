@@ -18,3 +18,5 @@ fields:
   label: category
   config:
     required: true
+pages:
+- _posts/test.md
