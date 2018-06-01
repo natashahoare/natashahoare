@@ -19,4 +19,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/test.md
+- _posts/2018-06-01-test.md
