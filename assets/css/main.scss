@@ -23,15 +23,15 @@ p {
 	line-height: 150%;
 }
 a {
-  color: $color-link;
+  color: $color-black;
   text-decoration: none;
   &:visited {
-	color: $color-link;
+	color: $color-grey;
 	text-decoration: none;
   }
   &:hover {
-	color: $color-link;
-	background-color: #0a0f9a;
+	color: $color-white;
+	background-color: $color-grey;
 	text-decoration: none;
 	border-bottom: none;
   }
